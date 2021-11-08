@@ -1,6 +1,0 @@
-PORT_NUMBER = 8080
-SPOTIFY_CLIENT_ID = 'a9a656783ee04a118d4f7dcd61785885'
-SPOTIFY_CLIENT_SECRET= 'd71f61a908f649789d146deb4359fb1b'
-SPOTIFY_REDIRECT_URI = 'http://localhost:8080'
-SCOPE = 'user-library-read'
-CACHE = '.spotipyoauthcache'
